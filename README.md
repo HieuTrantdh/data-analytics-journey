@@ -55,7 +55,8 @@ Hi! I'm Hieu, a Year 2 student passionate about data analytics.
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/hieutran-analytics
-- Email: [your email]
+- Email: tranhieutdh71@gmail.com
+- Kaggle: https://www.kaggle.com/kydiotsann71
 
 ---
 
