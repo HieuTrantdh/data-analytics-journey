@@ -59,7 +59,7 @@ Hi! I'm Hieu, a Year 2 student passionate about data analytics.
 
 ---
 
-**Started:** [Today's date - VD: November 22, 2024]  
+**Started:** [November 22, 2024]  
 **Last Updated:** [Today's date]
 
 *"The journey of a thousand miles begins with a single step."*
