@@ -54,7 +54,7 @@ Hi! I'm Hieu, a Year 2 student passionate about data analytics.
 - Tableau: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
 
 ## 📫 Connect With Me
-- LinkedIn: [Add link sau khi setup]
+- LinkedIn: www.linkedin.com/in/hieutran-analytics
 - Email: [your email]
 
 ---
