@@ -11,7 +11,8 @@ Hi! I'm Hieu, a Year 2 student passionate about data analytics.
 ## 📚 Learning Roadmap
 
 ### Phase 1: Foundations (Month 1-2)
-- [ ] Day 1: Setup GitHub, LinkedIn, tools 
+- [x] Day 1: Setup GitHub, LinkedIn, tools ✅ COMPLETED!
+- [ ] Day 2: SQL Basics Part 1 ← YOU ARE HERE!
 - [ ] Week 1: SQL basics + Python basics
 - [ ] Week 2-3: Pandas & data manipulation
 - [ ] Week 4: First mini project
@@ -48,8 +49,8 @@ Hi! I'm Hieu, a Year 2 student passionate about data analytics.
 - [ ] Portfolio Project 3
 
 **Skills Progress:**
-- SQL: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
-- Python: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+- SQL: ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% (setup complete)
+- Python: ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% (environment ready)
 - Excel: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
 - Tableau: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
 
